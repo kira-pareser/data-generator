@@ -1,6 +1,6 @@
-# data-generator
-Make sure generated data with feature selection better than non-feature selection model
-# 
+# Introduction
+Make sure generated data with feature selection better than non-feature selection model (Regression and Classification each model)
+# Feature Selection Model
 1. Correlation Coefficient (Pearson) 
 2. Variance Threshold
 3. Mutual Information
@@ -14,3 +14,6 @@ Make sure generated data with feature selection better than non-feature selectio
 11. Factor Analysis
 12. PCA
 13. ICA
+# Evaluation:
+R2-Score for Regression
+F1-Score for Classification
