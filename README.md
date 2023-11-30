@@ -1,5 +1,5 @@
 # data-generator
-Generate data to fit feature selections.ipynb
+Make sure generated data with feature selection better than non-feature selection model
 # 
 1. Correlation Coefficient (Pearson) 
 2. Variance Threshold
